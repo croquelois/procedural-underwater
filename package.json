@@ -1,0 +1,17 @@
+{
+  "name": "procedural-underwater",
+  "description": "Procedural Underwater Generation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Matthieu Croquelois",
+    "email": "croquelois@gmail.com"
+  },
+  "keywords": [
+    "procedural generation"
+  ],
+  "main": "./main.js",
+  "dependencies": {
+    "async": "^2.3.0",
+    "lwip": "0.0.9"
+  }
+}
